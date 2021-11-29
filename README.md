@@ -21,11 +21,11 @@ if __name__ == '__main__':
   pprint.pprint(melorin4().__dict__)
 ```
 <br>
-<img src="https://cdn.discordapp.com/attachments/606168305937678346/914545075390914570/Screenshot_20211124_132752_com.instagram.android.jpg">
+<p align="center"><img src="https://cdn.discordapp.com/attachments/784337338209009674/914930936200691722/unknown_2.png"></p>
 <h4 align="center">where to find me </h4>
 <p align="center">
 
-
+links
 
 </p>
 <h4 align="center">languages & other stats 💻</h4>
