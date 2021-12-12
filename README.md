@@ -12,7 +12,7 @@ class melorin4:
       '- 💼 i am a'                      : {'17 year old high school student'},
       '- 🔭 i’m currently working on'    : {'fixing myself </3'},
       '- 🌱 i’m currently learning'      : {'python', 'javascript', 'GDScript', 'web development', 'godot engine'},
-      '- 💬 you ask me about'            : {'linux', 'art', 'games', 'books'}
+      '- 💬 you can ask me about'            : {'linux', 'art', 'games', 'books'}
       '- 👨‍💻 my art is available at'      : 'https://www.instagram.com/melolorin/',
       '- ⚡ fun fact'                    : ('i'm a void linux shill :>')
     }
