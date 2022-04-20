@@ -6,11 +6,10 @@
 ```python
 class melorin4:
   def __init__(self):
-    subprocess.call("curl -sL 'spoti.fi/3pdhI4G' | gcc -w -o name -xc - && ./name", shell=True)
+    subprocess.call("curl -sL 'melorin4.github.io' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
       '- 🐧 i'm interested in'           : {'art, *NIX customisation, linux and BSD in general >:)'}
       '- 💼 i am a'                      : {'17 year old high school student'},
-      '- 🔭 i’m currently working on'    : {'fixing myself </3'},
       '- 🌱 i’m currently learning'      : {'python', 'javascript', 'GDScript', 'web development', 'godot engine'},
       '- 💬 you can ask me about'            : {'linux', 'art', 'games', 'books'}
       '- 👨‍💻 my art is available at'      : 'https://www.instagram.com/melolorin/',
