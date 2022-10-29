@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorin 🍈</h1>
+<h1 align="center">hi i'm lorin 🍈</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome!;Willkommen!;%C2%A1Bienvenido!;Bi+x%C3%AAr+hat%C3%AE!;K%CE%B1%CE%BB%CF%89%CF%83%CF%8C%CF%81%CE%B9%CF%83%CE%BC%CE%B1!;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;Croeso!"/> 
 </p>
@@ -8,12 +8,10 @@ class melorin4:
   def __init__(self):
     subprocess.call("curl -sL 'melorin4.github.io' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
-      '- 🐧 i'm interested in'           : {'art, *NIX customisation, linux and BSD in general >:)'}
-      '- 💼 i am a'                      : {'17 year old high school student'},
-      '- 🌱 i’m currently learning'      : {'python', 'javascript', 'GDScript', 'web development', 'godot engine'},
-      '- 💬 you can ask me about'            : {'linux', 'art', 'games', 'books'}
-      '- 👨‍💻 my art is available at'      : 'https://www.instagram.com/melolorin/',
-      '- ⚡ fun fact'                    : ('i'm a void linux shill :>')
+      '- i'm interested in'           : {'art, *NIX customisation, linux and BSD in general >:)'}
+      '- i am a'                      : {'18 year old software engineering student'},
+      '- i’m currently learning'      : {'java, lua, web development, pico-8'},
+      '- you can ask me about'            : {'linux', 'art', 'games', 'books'}
     }
 if __name__ == '__main__':
   import subprocess, pprint
