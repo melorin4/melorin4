@@ -11,7 +11,7 @@ class melorin4:
       '- i'm interested in'           : {'art, *NIX customisation, linux and unix in general >:)'}
       '- i am a'                      : {'18 year old software engineering student'},
       '- i’m currently learning'      : {'java, lua, web development, pico-8'},
-      '- you can ask me about'            : {'linux', 'art', 'games', 'books'}
+      '- you can ask me about'        : {'linux', 'art', 'games', 'books'}
     }
 if __name__ == '__main__':
   import subprocess, pprint
