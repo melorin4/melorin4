@@ -9,7 +9,7 @@ class melorin4:
     subprocess.call("curl -sL 'melorin4.github.io' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
       '- i'm interested in'           : {'art, *NIX customisation, linux and unix in general >:)'}
-      '- i am a'                      : {'19 year old software engineering student'},
+      '- i am a'                      : {'20 year old software engineering student'},
       '- i’m currently learning'      : {'java, web and game development, pico-8'},
       '- you can ask me about'        : {'linux', 'art', 'games', 'books'}
     }
